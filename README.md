@@ -116,6 +116,7 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 Now let's get you started with contributing to other projects. I have compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
 ## Contributors
+
 <a href = "https://github.com/SamarjeetBanik/get-your-PR-accepted/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=SamarjeetBanik/get-your-PR-accepted"/>
 </a>
